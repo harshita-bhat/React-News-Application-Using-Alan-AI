@@ -1,2 +1,3 @@
-# React-News-Application-Using-Alan-AI
-Alan Al News Reader is a react based web app that presents news articles using Material-UI components. The most important feature is the integration of Alan AI voice commands, which allows user to navigate and open news articles handsfree. It fetches articles, provides smooth scrolling experience to highlighted articles upon voice request
+# AI_Alan
+# I created the 'Alan AI News Reader', a React-based web app that presents news articles using Material-UI components. The standout feature is the integration of Alan AI voice commands, allowing users to navigate and open news articles hands-free. The application dynamically fetches articles, provides a smooth-scrolling experience to highlighted articles upon voice request, and uses placeholders for missing images for a consistent look. The combination of React, Material-UI, and Alan AI ensured a user-friendly, interactive, and modern news-reading experience
+# Harshita Bhat
